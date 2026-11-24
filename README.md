@@ -111,6 +111,7 @@ No subscription; you pay per token from your balance.
 
 ## Related guides
 
+- [Which AI APIs accept crypto? TeamoRouter, OpenRouter, NanoGPT, Venice, PayPerQ and LLMwithCrypto compared](https://teamorouter.com/blogs/llm-api-crypto-payment-compared?utm_source=github&utm_medium=readme&utm_campaign=claude-api-card-declined): coins, crypto fees, account requirement, minimum top-up and refunds, with a source link for every fact
 - [teamo-lab/pay-openai-api-with-crypto](https://github.com/teamo-lab/pay-openai-api-with-crypto): OpenAI API and Codex without a card
 - [teamo-lab/claude-api-usdt](https://github.com/teamo-lab/claude-api-usdt): 中文版
 - [teamo-lab/pagar-claude-con-usdt](https://github.com/teamo-lab/pagar-claude-con-usdt): guía en español
